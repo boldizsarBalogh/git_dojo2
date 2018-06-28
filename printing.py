@@ -9,6 +9,11 @@ def joke():
 def add():
     print(2+2)
 
+<<<<<<< Updated upstream
 
 def shout():
     print("THIS IS SPARTAAAAAAAAAAAA!!")
+=======
+def shout():
+    print("WAWAWAWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!")
+>>>>>>> Stashed changes

@@ -8,3 +8,7 @@ def joke():
 
 def add():
     print(2+2)
+
+
+def shout():
+    print("THIS IS SPARTAAAAAAAAAAAA!!")
